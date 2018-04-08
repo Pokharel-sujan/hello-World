@@ -6,7 +6,7 @@ function HelloWorld(props){
 }
 
 ReactDOM.render(
-  <HelloWorld index = '0' numberArray= {[1,2,3,4,5]}/>,   //returns 1
+  <HelloWorld index = '0' numberArray= {[1,2,3,4,5]}/>,   //returns  Value :1
   
     document.getElementById('root')
  )
